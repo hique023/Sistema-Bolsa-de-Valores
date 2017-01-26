@@ -1,0 +1,16 @@
+:Lógica para Desenvolvimento do Sistema:
+
+Programa Sistema
+
+	Determinar ao sistema que reconheça um link externo;
+	Solicitar ao usuário que entre com uma determinada ação da bolsa de valores contida no link já determinado ao sistema;
+	Solicitar que o usuário determine o período de tempo que deseja visualizar no gráfico;
+	Determinar que o sistema reconheça a ação solicitada anteriormente;
+	Determinar que o sistema busque as informações no link externo a partir da ação solicitada pelo usuário;
+	Receber os dados da ação desejada a partir do link externo já determinado no sistema e armazenar em memória;
+	O sistema deve analisar os dados recebidos;
+	Solicitar que o sistema recoheça o período de tempo a partir do índice DI no mesmo período;
+	Solicitar que o sistema analise os dados a partir do índice DI do passo anterior;
+	Após a análise o sistema será responsável por desenvolver o gráfico com os dados referentes a ação escolhida baseando-se na variação em percentual ou base 100;
+	Apresentar os dados analisados gerando o gráfico;
+	Finalizar programa com a abetura para uma nova pesquisa;
